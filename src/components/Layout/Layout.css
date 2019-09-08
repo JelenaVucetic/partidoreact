@@ -1,0 +1,9 @@
+.Header {
+    background-image: url("../../assets/images/white-interior-design-3d-rendering-P9Z4DRX.png");
+    position: absolute;
+    left: -3px;
+    top: -285px;
+    width: 2264px;
+    height: 1275px;
+    z-index: 4;
+}
