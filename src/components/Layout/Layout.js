@@ -1,7 +1,6 @@
 import React from 'react';
 import classes from './Layout.css';
 
-import Logo from '../../assets/images/logo.png';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 
@@ -15,6 +14,7 @@ const layout = (props) => (
             {props.children}
         </main>
         <Footer />
+        
     </div>
 
 );

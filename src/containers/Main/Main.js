@@ -1,12 +1,12 @@
-﻿import React, { Component } from 'react';
+import React, { Component } from 'react';
 
-import classes from './Partido.css';
+import classes from './Main.css';
 import Video from '../../assets/videos/video.mp4'
 import Works from '../../components/Works/Works';
 import Services from '../../components/Services/Services';
 import AboutUs from '../../components/AboutUs/AboutUs';
 
-class Partido extends Component {
+class Main extends Component {
     render() {
         return (
             <div className={classes.Main}>
@@ -16,7 +16,7 @@ class Partido extends Component {
                         Your browser does not support the video tag.
                     </video>
                 </div>
-                    <AboutUs />
+                <AboutUs />
                 <div>
                     <Services />
                 </div>
@@ -24,10 +24,10 @@ class Partido extends Component {
                     <Works />
                 </div>
             </div>
-        
+
 
         );
     }
 }
 
-export default Partido;
+export default Main;

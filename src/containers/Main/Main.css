@@ -5,14 +5,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
-.Main h1 {
-    font-size: 48px;
-    font-family: "Sarabun";
-    color: rgb(116, 144, 59);
-}
+    .Main h1 {
+        font-size: 48px;
+        font-family: "Sarabun";
+        color: rgb(116, 144, 59);
+    }
 
 video {
     position: absolute;
@@ -22,4 +21,3 @@ video {
     height: 530px;
     z-index: 21;
 }
-
