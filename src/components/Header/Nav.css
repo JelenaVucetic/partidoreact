@@ -1,0 +1,33 @@
+
+.Nav {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 50%;
+    margin: 5vh 50vh;
+    border-radius: 50px;
+    overflow: hidden;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+}
+
+    .Nav img {
+        padding: 10px;
+    }
+
+    .Nav a {
+        color: inherit; /* blue colors for links too */
+        text-decoration: inherit; /* no underline */
+        font-size: 18px;
+        font-family: "Sarabun";
+        padding: 10px;
+        z-index: 14;
+    }
+
+        .Nav a:hover {
+            color: rgb(115, 144, 59);
+        }
+
+.NavItems {
+    padding: 20px;
+}

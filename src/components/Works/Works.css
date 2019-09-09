@@ -1,0 +1,49 @@
+
+.Radovi h1 {
+    line-height: 0.8;
+    position: absolute;
+    left: 415px;
+    top: 2690px;
+    z-index: 93;
+}
+
+.Centar {
+    background-image: url("../../assets/images/CENTAR.png");
+    position: absolute;
+    left: 415px;
+    top: 2793px;
+    width: 263px;
+    height: 187px;
+    z-index: 74;
+}
+
+.Img3 {
+    background-image: url("../../assets/images/3.png");
+    position: absolute;
+    left: 973px;
+    top: 2777px;
+    width: 315px;
+    height: 239px;
+    z-index: 83;
+}
+
+
+.Img4 {
+    background-image: url("../../assets/images/4.png");
+    position: absolute;
+    left: 1291px;
+    top: 2793px;
+    width: 263px;
+    height: 187px;
+    z-index: 88;
+}
+
+.Img2 {
+    background-image: url("../../assets/images/2.png");
+    position: absolute;
+    left: 707px;
+    top: 2793px;
+    width: 263px;
+    height: 187px;
+    z-index: 78;
+}

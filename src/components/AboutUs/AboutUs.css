@@ -1,0 +1,27 @@
+.Content {
+    width: 945px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 1000px;
+    margin-top: -190px;
+    z-index: 28;
+}
+
+
+.Content h1 {
+    font-weight: bold;
+    line-height: 0.5;
+    top: -152px;
+}
+
+.Content button {
+    width: 300px;
+    border: 1px solid rgb(116, 144, 59);
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 17px;
+    font-family: "Sarabun";
+    color: rgb(116, 144, 59);
+    background-color: white;
+}
