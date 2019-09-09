@@ -22,12 +22,15 @@ const layout = (props) => (
         </div>
         <div className={classes.Ruler1} ></div>
         <div className={classes.Ruler2} ></div>
-
         <main>
             {props.children}
         </main>
-        <div>
-            footer
+        <div className={classes.Footer}>
+            <div className={classes.Divider}></div>
+            <div className={classes.Pensil}></div>
+            <div className={classes.Pin}></div>
+            <div className={classes.Ruler01}></div>
+            <div className={classes.Ruler02}></div>
         </div>
     </div>
 
