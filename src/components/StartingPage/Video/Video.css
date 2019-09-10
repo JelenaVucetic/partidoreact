@@ -1,0 +1,9 @@
+
+video {
+    position: absolute;
+    left: 500px;
+    top: 900px;
+    width: 945px;
+    height: 530px;
+    z-index: 21;
+}

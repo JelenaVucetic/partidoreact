@@ -9,25 +9,26 @@
     overflow: hidden;
     display: flex;
     justify-content: space-around;
+    z-index: 10;
 }
 
-    .Nav img {
-        padding: 10px;
-    }
+.Nav img {
+    padding: 10px;
+}
 
-    .Nav a {
-        color: inherit; /* blue colors for links too */
-        text-decoration: inherit; /* no underline */
-        font-size: 18px;
-        font-family: "Sarabun";
-        padding: 10px;
-        z-index: 14;
-    }
+.Nav a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+    font-size: 18px;
+    font-family: "Sarabun";
+    padding: 10px;
+    z-index: 14;
+}
 
-        .Nav a:hover {
-            color: rgb(115, 144, 59);
-        }
+    .Nav a:hover {
+        color: rgb(115, 144, 59);
+    }
 
 .NavItems {
-    padding: 20px;
+    padding: 30px;
 }

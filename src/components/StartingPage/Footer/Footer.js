@@ -10,7 +10,7 @@ const footer = () => (
         <div className={classes.Ruler01}></div>
         <div className={classes.Ruler02}></div>
         <div className={classes.Info} >
-            <h1> Kontakt</h1>
+        
             <h4>Vojislavljevica br.23</h4>
             <h4>81000 Podgorica, Crna gora</h4>
             <ul>

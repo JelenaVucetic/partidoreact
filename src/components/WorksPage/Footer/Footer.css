@@ -1,0 +1,50 @@
+
+.Footer {
+    background-image: url("../../../assets/images/usluge.png");
+    position: absolute;
+    left: 0px;
+    top: 2042px;
+    width: 1970px;
+    height: 876px;
+    z-index: 96;
+}
+
+
+.Info {
+    position: absolute;
+    left: 428px;
+    top: 250px;
+    color: white;
+    font-size: 28px;
+    line-height: 0.9;
+}
+
+.Info li {
+    list-style-type: none;
+}
+
+.Form {
+    position: absolute;
+    left: 900px;
+    top: 250px;
+    color: white;
+    font-size: 28px;
+}
+
+input {
+    margin-right: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+textarea {
+    width: 642px;
+    height: 160px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: gray;
+}
