@@ -8,7 +8,7 @@
 }
 
 .Centar {
-    background-image: url("../../assets/images/CENTAR.png");
+    background-image: url("../../../assets/images/CENTAR.png");
     position: absolute;
     left: 415px;
     top: 2793px;
@@ -18,7 +18,7 @@
 }
 
 .Img3 {
-    background-image: url("../../assets/images/3.png");
+    background-image: url("../../../assets/images/3.png");
     position: absolute;
     left: 973px;
     top: 2777px;
@@ -29,7 +29,7 @@
 
 
 .Img4 {
-    background-image: url("../../assets/images/4.png");
+    background-image: url("../../../assets/images/4.png");
     position: absolute;
     left: 1291px;
     top: 2793px;
@@ -39,7 +39,7 @@
 }
 
 .Img2 {
-    background-image: url("../../assets/images/2.png");
+    background-image: url("../../../assets/images/2.png");
     position: absolute;
     left: 707px;
     top: 2793px;

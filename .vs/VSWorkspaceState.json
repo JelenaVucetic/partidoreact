@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
+    "\\public\\font-awesome-4.7.0",
     "\\src",
-    "\\src\\assets",
-    "\\src\\assets\\images",
     "\\src\\components",
     "\\src\\containers",
-    "\\src\\containers\\Partido"
+    "\\src\\containers\\Main"
   ],
-  "SelectedNode": "\\src\\assets\\images\\CENTAR.png",
+  "SelectedNode": "\\src\\components\\New Folder",
   "PreviewInSolutionExplorer": false
 }

@@ -9,13 +9,10 @@ const nav = () => (
     <img src={Logo} alt='img' />
         <div className={classes.NavItems}>
             <Link to='/'> Pocetna </Link>
-       
-        <a href='#'>O nama </a>
-        <a href='#'>Usluge </a>
-            <a href='#'>Radovi </a>
-            <Link to='contact'> Kontakt </Link>
-
-
+            <Link to='/o-nama'>O nama </Link>
+            <Link to='/usluge'>Usluge </Link>
+            <Link to='/radovi'>Radovi </Link>
+            <Link to='/kontakt'>Kontakt </Link>
     </div>
 </div>
 );

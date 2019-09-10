@@ -1,20 +1,15 @@
 import React from 'react';
 import classes from './Layout.css';
 
-import Header from '../Header/Header';
-import Footer from '../Footer/Footer';
+import Nav from '../../components/Nav/Nav';
 
 const layout = (props) => (
 
-    <div>
-        <Header />
-        <div className={classes.Ruler1} ></div>
-        <div className={classes.Ruler2} ></div>
+    <div>    
+        <Nav />
         <main>
             {props.children}
-        </main>
-        <Footer />
-        
+        </main>      
     </div>
 
 );

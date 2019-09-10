@@ -1,0 +1,103 @@
+.Service {
+    background-image: url('../../assets/images/uslugesadrzaj.png');
+    position: absolute;
+    left: 428px;
+    top: 741px;
+    width: 1147px;
+    height: 2294px;
+    z-index: 33;
+    font-family: "Sarabun";
+}
+
+.Service h1{
+    font-size: 48px;
+    color: rgb(116, 144, 59);
+    font-weight: bold;
+    line-height: 0.5;
+    text-align: center;
+    position: absolute;
+    top: -100px;
+    z-index: 16;
+}
+
+.Service h2 {
+    color: rgb(116, 144, 59);
+}
+
+
+.Service li {
+    list-style-type: none;
+    list-style-image: url('../../assets/images/yesmark.png');
+    font-weight: bold;
+}
+
+.Service p {
+    color: rgb(102, 97, 87);
+}
+
+.Right {
+    font-size: 17px;
+    color: rgb(102, 97, 87);
+    line-height: 1.412;
+    text-align: left;
+    position: absolute;
+    left: 1097.006px;
+    top: 800.771px;
+    width: 445px;
+    height: 185px;
+    z-index: 18;
+}
+
+.Projektovanje {
+    font-size: 17px;
+    color: rgb(102, 97, 87);
+    line-height: 1.412;
+    text-align: left;
+    position: absolute;
+    left: 901.006px;
+    top: 1352.771px;
+    width: 646px;
+    height: 134px;
+    z-index: 22;
+}
+
+.Lakiranje {
+    font-size: 17px;
+    color: rgb(102, 97, 87);
+    line-height: 1.412;
+    text-align: left;
+    position: absolute;
+    left: 415.006px;
+    top: 2662.771px;
+    width: 646px;
+    height: 134px;
+    z-index: 30;
+}
+
+
+.Prevoz {
+    font-size: 17px;
+    color: rgb(102, 97, 87);
+    line-height: 1.412;
+    text-align: left;
+    position: absolute;
+    left: 901.006px;
+    top: 2244.771px;
+    width: 646px;
+    height: 134px;
+    z-index: 35;
+}
+
+.Proizvodnja {
+    font-size: 17px;
+    font-family: "Sarabun";
+    color: rgb(102, 97, 87);
+    line-height: 1.412;
+    text-align: left;
+    position: absolute;
+    left: 414.006px;
+    top: 1796.771px;
+    width: 646px;
+    height: 134px;
+    z-index: 26;
+}
