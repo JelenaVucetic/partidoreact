@@ -27,19 +27,19 @@
     display: flex;
     justify-content: space-around;
     position: absolute;
-    top: 1350px;
+    top: 1500px;
     left: 500px;
     width: 945px;
 }
 
-    .Team h1 {
-        position: absolute;
-        top: -122px;
-        left: 416px;
-        font-size: 48px;
-        font-family: "Sarabun";
-        color: rgb(116, 144, 59);
-    }
+.Team h1 {
+    position: absolute;
+    top: -140px;
+    left: 416px;
+    font-size: 48px;
+    font-family: "Sarabun";
+    color: rgb(116, 144, 59);
+}
 
 .Member1, .Member2, .Member3 {
     display: flex;
@@ -49,4 +49,14 @@
 
 img {
     width: 130px;
+}
+
+.Shape {
+    background-color: rgb(233, 233, 233);
+    position: absolute;
+    left: 415px;
+    top: 1319px;
+    width: 1140px;
+    height: 1px;
+    z-index: 46;
 }

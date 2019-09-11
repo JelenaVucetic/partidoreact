@@ -1,0 +1,84 @@
+.Contact {
+    background-image: url("../../assets/images/kontaktstrana.png");
+    position: absolute;
+    left: -3px;
+    top: 0px;
+    width: 1975px;
+    height: 2051px;
+    z-index: 40;
+}
+
+.Container {
+    display: flex;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    z-index: 50;
+}
+
+.Form {
+    width: 665px;
+    position: absolute;
+    top: 195px;
+    left: 396px;
+}
+
+.From h2 {
+    font-size: 30px;
+    font-family: "Sarabun";
+    color: rgb(102, 97, 87);
+    z-index: 38;
+}
+
+
+
+input {
+    margin-right: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 5px; 
+}
+
+textarea {
+    width: 630px;
+    height: 160px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 20px;
+    font-size: 16px;
+    color: gray;
+}
+
+button {
+    width: 305px;
+    height: 57px;
+    background-color: rgb(116, 144, 59);
+    color: white;
+    float: right;
+    font-size: 16px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(116, 144, 59);
+}
+
+.Info {
+    width: 375px;
+    position: absolute;
+    top: 140px;
+    left: -71px;
+}
+
+.Info h1 {
+    font-family: "Sarabun";
+    color: rgb(116, 144, 59);
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+.Meta {
+    font-size: 24px;
+    line-height: 1;
+    color: gray;
+}

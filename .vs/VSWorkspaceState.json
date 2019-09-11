@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public\\font-awesome-4.7.0",
     "\\src",
+    "\\src\\assets\\images",
     "\\src\\components",
+    "\\src\\components\\AboutPage\\Footer",
+    "\\src\\components\\StartingPage",
+    "\\src\\components\\StartingPage\\Video",
     "\\src\\containers",
-    "\\src\\containers\\Main"
+    "\\src\\containers\\Main",
+    "\\src\\containers\\Works"
   ],
-  "SelectedNode": "\\src\\components\\New Folder",
+  "SelectedNode": "\\src\\components\\StartingPage\\Services\\Services.css",
   "PreviewInSolutionExplorer": false
 }

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import classes from './Service.css';
 
-import Footer from '../../components/Footer/Footer';
+import Footer from '../../components/ServicePage/Footer/Footer';
 import Header from '../../components/ServicePage/Header/Header';
 class Service extends Component {
 

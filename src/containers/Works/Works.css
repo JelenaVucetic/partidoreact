@@ -9,7 +9,7 @@
     text-align: center;
 }
 
- img {
+ .Works img {
      width: 263px;
      border-radius: 10px;
      padding: 10px;
@@ -44,4 +44,10 @@
     left: 8.938px;
     top: -95px;
     z-index: 38;
+}
+
+.Kitchen img {
+    width: 263px;
+    border-radius: 10px;
+    padding: 10px;
 }

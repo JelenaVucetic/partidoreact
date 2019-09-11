@@ -3,14 +3,13 @@
     background-image: url("../../../assets/images/usluge.png");
     position: absolute;
     left: 0px;
-    top: 2042px;
+    top: 1900px;
     width: 1970px;
     height: 876px;
     z-index: 96;
 }
 
 
-.In
 .Info {
     position: absolute;
     left: 428px;
@@ -73,11 +72,11 @@ button {
     z-index: 129;
 }
 
-    .Info h1 {
-        font-size: 48px;
-        font-weight: bold;
-        line-height: 2.5;
-    }
+.Info h1 {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 2.5;
+}
 
 .Meta {
     font-size: 24px;
