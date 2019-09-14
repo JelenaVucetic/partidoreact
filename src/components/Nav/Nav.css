@@ -33,3 +33,9 @@
 .NavItems {
     padding: 30px;
 }
+
+@media(max-width: 500px) {
+    .Nav {
+        width: 200px;
+    }
+}

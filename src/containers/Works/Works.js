@@ -17,6 +17,11 @@ import Kitchen4 from '../../assets/images/kuhinja4.png';
 
 class Works extends Component {
 
+
+    showImageHeandler = () => {
+
+    }
+
     render() {
         return (
             <div>

@@ -5,6 +5,15 @@
     height: 190vh;
 }
 
+@media(max-width: 400px) {
+    .Header {
+        background-image: url("../../../assets/images/pocetnatel.png");
+        background-repeat: no-repeat;
+        height: 240px;
+    }
+   
+}
+
 .Header h1 {
     font-size: 60px;
     font-family: "Sarabun";
@@ -20,3 +29,8 @@
     z-index: 10;
 }
 
+@media(max-width: 500px) {
+    .Header {
+        width: 100%;
+    }
+}
