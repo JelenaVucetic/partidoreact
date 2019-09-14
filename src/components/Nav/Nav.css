@@ -36,6 +36,12 @@
 
 @media(max-width: 500px) {
     .Nav {
-        width: 200px;
+        width: 600px;
+        margin: 0;
+        left: 100px;
+        top: 50px;
+    }
+    .Nav img {
+        width: 110px;
     }
 }
