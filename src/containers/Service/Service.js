@@ -11,6 +11,7 @@ class Service extends Component {
             <div>
                 <Header />
                 <div className={classes.Service}>
+                    <div className={classes.Left}>
                     <h1>Usluge</h1>
                     <h2>Nas program cine:</h2>
                     <ul>
@@ -28,7 +29,8 @@ class Service extends Component {
                         <li>Poslovnih prostora</li>
                         <li>Ugostiteljskih objekata - hotela i restorana</li>
                     </ul>
-                </div>
+                    </div>
+                    </div>
                 <div className={classes.Right}>
                     <p> Imali smo tu cast i zadovoljstvo da do danas opremimo veliki broj najrazlicitijih objekata i steknemo bogato iskustvou u ovom poslu.</p>
                     <p> Nas profesionalni tim je tu da Vam pomogne da pronadjete najbolje funkcionalno i estetsko rjesenje za prostor kojim raspolazete, odnosno za opremanje istog  modernim elementima i namjestajem.</p>

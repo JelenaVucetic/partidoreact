@@ -101,3 +101,29 @@
     height: 134px;
     z-index: 26;
 }
+
+
+@media(max-width: 500px) {
+    .Service {
+        left: 0;
+    }
+    .Projektovanje, .Prevoz {
+        left: 439px;
+        width: 427px;
+    }
+
+    .Proizvodnja, .Lakiranje {
+        left: 100px;
+        width: 574px;
+    }
+
+    .Right {
+        left: 100px;
+        top: 1150px;
+        width: 761px;
+    }
+
+    .Left {
+        margin-left: 50px;
+    }
+}
