@@ -25,6 +25,7 @@
 
 .Team {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     position: absolute;
     top: 1500px;
@@ -60,3 +61,22 @@ img {
     height: 1px;
     z-index: 46;
 }
+
+
+@media(max-width: 500px) {
+    .About {
+        width: 776px;
+        left: 50px;
+    }
+
+    .Team {
+        left: 150px;
+        padding: 20px;
+        width: 600px;
+    }
+
+    .Team h1 {
+        left: 250px;
+    }
+}
+

@@ -8,11 +8,11 @@
 }
 
 @media(max-width:520px) {
-    video {
+    .Video  {
         position: absolute;
-        left: 200px;
-        top: 800px;
-        height: 600px;
+        left: 61px;
+        top: 414px;
+        width: 760px;
         z-index: 21;
     }
 }

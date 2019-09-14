@@ -82,3 +82,27 @@ button {
     font-size: 24px;
     line-height: 1;
 }
+
+
+@media(max-width: 500px) {
+    .Footer {
+        left: -400px;
+    }
+
+    .Form {
+        width: 300px;
+    }
+
+    .Form textarea{
+        width: 300px;
+        height: 100px;
+    }
+
+    .Form input {
+        padding-bottom: 10px;
+    }
+
+    .Form button {
+        width:250px;
+    }
+}
